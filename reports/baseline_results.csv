@@ -1,0 +1,6 @@
+setup,acc,precision_unsafe,recall_unsafe,f1_unsafe,auc
+Réponse seule · split ALÉATOIRE (fuite),0.865,0.785,0.905,0.841,0.937
+Réponse seule · split par question,0.789,0.706,0.797,0.749,0.852
+Question seule (prior) · split par question,0.364,0.334,0.622,0.435,0.498
+Question + Réponse · split par question,0.757,0.645,0.855,0.735,0.844
+Features de style seules · split par question,0.787,0.698,0.808,0.749,0.848
